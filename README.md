@@ -10,3 +10,5 @@ Genius API and messing around with Git.
 API documentation for Genius can be found at https://docs.genius.com/
 
 ### Real Talk
+
+You thought the previous was **real**, oh-no
