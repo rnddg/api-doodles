@@ -11,4 +11,8 @@ API documentation for Genius can be found at https://docs.genius.com/
 
 ### Real Talk
 
-You thought the previous was **real**, oh-no
+<<<<<<< HEAD
+You thought the previous was **real**, oh-no. Here's the first line of real talk. I'm the best alive.
+=======
+
+>>>>>>> change-readme
